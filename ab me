@@ -3,13 +3,14 @@
 <style>
 
 body {
-background-color: #FFF;
+background: url("");
+background-repeat: no-repeat;
 
 }
 
 
 </style>
-<body style="background-color:e3cfc2;""font-family:verdana;"
+<body style="font-color:e3cfc2;""font-family:verdana;"
 
 <h1>celeste pirtle-cooper</h1>
 
