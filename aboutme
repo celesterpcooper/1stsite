@@ -1,16 +1,9 @@
 <!doctype html/>
 <html>
-<style>
-
-body {
-background: url("");
-background-repeat: no-repeat;
-
-}
+<body>
 
 ##celesterpcooper.github.io/1stsite/index.htm
 
-</style>
 <body style="font-color:e3cfc2;""font-family:verdana;"
 
 <h1>celeste pirtle-cooper</h1>
@@ -28,5 +21,5 @@ background-repeat: no-repeat;
   <strong>Variable - reserved memory locations to store values.</strong>
   <strong>Loops - repeats a statement or group of statements while a given condition is TRUE.</strong>
   <strong>Conditionals - a statement that controls the flow of execution depending on some condition.</strong>
-
-
+  
+</body>
