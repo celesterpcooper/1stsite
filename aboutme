@@ -1,4 +1,4 @@
-<!doctype html/>
+<!DOCTYPE html>
 <html>
 <body>
 
@@ -10,7 +10,7 @@
 
 <h3> i barely talk but i communicate udigg.
 <p> also i'm 17 and a senior
-<button onclick="this.innerHTML='music, tumblr, writing, food, netflix, hulu'">likes</p>
+<button onclick="this.innerHTML='music, tumblr, writing, food, netflix, hulu'">likes</button>
 <p onclick="this.innerHTML='war, anything with 6+ legs, being touched'">dislikes</p>
 <p onclick="this.innerHTML='i like to online shop without buying anything'">fun fact</p>
 <p> i love playing volleyball and my favorite subject in school is psychology
@@ -23,3 +23,4 @@
   <strong>Conditionals - a statement that controls the flow of execution depending on some condition.</strong>
   
 </body>
+</html>
