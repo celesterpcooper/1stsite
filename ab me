@@ -8,6 +8,7 @@ background-repeat: no-repeat;
 
 }
 
+##celesterpcooper.github.io/1stsite/index.htm
 
 </style>
 <body style="font-color:e3cfc2;""font-family:verdana;"
@@ -16,16 +17,16 @@ background-repeat: no-repeat;
 
 <h3> i barely talk but i communicate udigg.
 <p> also i'm 17 and a senior
-<p> likes: music, tumblr, writing, food, netflix, hulu
-<p> dislikes: war, anything with 6+ legs, being touched
-<p> fun fact: i like to online shop without buying anything
+<p onclick="this.innerHTML='music, tumblr, writing, food, netflix, hulu'">likes</p>
+<p onclick="this.innerHTML='war, anything with 6+ legs, being touched'">dislikes</p>
+<p onclick="this.innerHTML='i like to online shop without buying anything'">fun fact</p>
 <p> i love playing volleyball and my favorite subject in school is psychology
-<br>
-<p><strong>Core 4: Functions, Variable, Loop, and Conditionals.</strong>
+</h3>
+ <strong>Core 4: Functions, Variable, Loop, and Conditionals.</strong>
   
   <strong>Functions - a block of organized, reusable code that is used to perform a single, related action.</strong>
   <strong>Variable - reserved memory locations to store values.</strong>
   <strong>Loops - repeats a statement or group of statements while a given condition is TRUE.</strong>
   <strong>Conditionals - a statement that controls the flow of execution depending on some condition.</strong>
 
-</h3>
+
