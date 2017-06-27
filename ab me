@@ -19,4 +19,13 @@ background-repeat: no-repeat;
 <p> likes: music, tumblr, writing, food, netflix, hulu
 <p> dislikes: war, anything with 6+ legs, being touched
 <p> fun fact: i like to online shop without buying anything
+<p> i love playing volleyball and my favorite subject in school is psychology
+<br>
+<p><strong>Core 4: Functions, Variable, Loop, and Conditionals.</strong>
+  
+  <strong>Functions - a block of organized, reusable code that is used to perform a single, related action.</strong>
+  <strong>Variable - reserved memory locations to store values.</strong>
+  <strong>Loops - repeats a statement or group of statements while a given condition is TRUE.</strong>
+  <strong>Conditionals - a statement that controls the flow of execution depending on some condition.</strong>
+
 </h3>
